@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+  background: rgb(227, 179, 153);
+  background: linear-gradient(
+    180deg,
+    rgba(227, 179, 153, 1) 0%,
+    rgba(102, 206, 238, 1) 100%
+  );
+}
